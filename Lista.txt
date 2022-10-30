@@ -1,8 +1,0 @@
-Chgmd.avi
-go.mod
-Lista.txt
-main.exe
-main.go
-T3st3.mp4
-text.txt
-text2.mp3

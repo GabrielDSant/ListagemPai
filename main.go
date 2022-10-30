@@ -1,5 +1,8 @@
 package main
 
+// go: generate goversioninfo -icon = C:\Users\Gabri\OneDrive\Documentos\Projetos\ListaPai\iconfinder-document03-1622833_121957.ico
+
+
 import (
 	"fmt"
 	"os"
